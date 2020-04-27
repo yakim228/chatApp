@@ -1,0 +1,40 @@
+.nav-header{
+    height: 85px;
+}
+.form-control-search{
+    margin: 5px;
+    height: 30px;
+    border-radius: 0px;
+}
+.list-group-contact{
+    margin: 5px;
+}
+.list-group-item-w{
+    width: 100%;
+}
+.list-group-item{
+    background-color: thistle;
+    margin-bottom: 2px;
+}
+.discussion{
+    height: 700px;
+}
+.trasparent{
+    background-color: transparent;
+}
+.saisie{
+    position: relative;
+    bottom: 10px;
+}
+.send{
+    font-size: 40px;
+    color: yellowgreen;
+    background-color: thistle;
+    border-style: none;
+}
+.afficher{
+    display: none;
+}
+.desafficher{
+    display: block;
+}
